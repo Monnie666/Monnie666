@@ -11,5 +11,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/madebiyi06/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i love to learn the different aspects of data analysis
+- ⚡ Fun fact: i love to learn the different aspects of data analysis, python, sql
 -->
